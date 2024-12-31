@@ -34,8 +34,7 @@
 * Pandas, Numpy, Matplotlib for csv reading, Data Processing, Data Cleaning, Visualization etc.
 
 ## Deployed app
-[![Screenshot (10)](https://user-images.githubusercontent.com/97881558/171418344-52e4b748-069c-4731-a37f-7788a3db02db.png)
-](https://forest-fire-predictionv1.herokuapp.com/)
+![Screenshot 2024-12-31 150837](https://github.com/user-attachments/assets/005089e6-061e-49dd-ac4f-cda1a6f627be)
 
 <!-- GETTING STARTED -->
 ## Introduction
